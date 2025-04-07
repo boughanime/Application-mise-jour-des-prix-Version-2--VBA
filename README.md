@@ -37,7 +37,7 @@ Les fichiers nécessaires pour exécuter ce programme :
 -	00 - Produits - Nouveaux prix ABC.xls
 
  
-      Application de mise à jour de prix version 1
+      **Application de mise à jour de prix version 1**
 
   ![image](https://github.com/user-attachments/assets/48ff7f87-bd76-41f5-bbb0-b5a57e30b6ea)
 

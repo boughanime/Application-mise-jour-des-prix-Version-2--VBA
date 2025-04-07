@@ -11,6 +11,7 @@ Pour résoudre ce problème, il a fallu développer un programme qui modifie les
 
 # Application Mise à jour de prix version 1
 Dans la première version du programme, l’idée était de travailler sur chaque fichier dont on voulait modifier les prix séparément, chaque fichier contenant plusieurs Articles et avoir un seul type de prix (grilles) A, B et C, qu’on peut remarquer sur le nom de chaque fichier.
+
 ![image](https://github.com/user-attachments/assets/8d087bcc-16dd-4c02-8309-6df05875f3b4)
 
 On a utilisé deux autre fichier Excel, le premier fichier Excel contient les anciens prix « 00 - Produits - Anciens prix ABC.xls » et le deuxième contient les nouveaux prix « 00 - Produits - Nouveaux prix ABC.xls ».

@@ -23,14 +23,19 @@ Pour chaque grille on utilise une formule différente car chaque grille correspo
 22. Donc j’ai créé trois formulaires qui on peut les utiliser pour tous les types de grilles
 
 La deuxième tâche de ce programme consiste à filtrer les articles dont le prix n'a pas changé et à les placer sur une nouvelle feuille qui s’appelle « Ajout » afin de modifier leur prix.
+
 La troisième tâche qui doit être effectuée par ce programme est d’exporter le fichier traité vers un dossier.
+
 Afin de mettre en œuvre ces deux tâches précédentes, j'ai dû trouver des solutions en utilisant le langage de programmation VBA.
+
 Grâce à une analyse des besoins qui j’ai faite avec l’aide de mon tuteur j’ai décidé de développer un programme avec 4 boutons et une barre de choix de grille (A, B et C) :
-•	Importer : L'import des fichiers sur lesquels nous voulons travailler et affiche le nom du fichier dans une fenêtres.
-•	Prix : barre de choix de grille (A, B et C) qui dépend du nom de fichier
-•	Mise prix : Contient toutes les opérations nécessaires qui doivent être appliquées à chaque grille et chaque  article pour avoir à la fin deux onglets bien traités (Modification et Ajout).
-•	Exporter : L’export des fichiers traités dans le même dossier d’import avec le même nom du fichier.
-•	Supprimer : supprime tous les onglets et tout le contenu dans le fichier de programme, recommandés après chaque import.
+
+- Importer : L'import des fichiers sur lesquels nous voulons travailler et affiche le nom du fichier dans une fenêtres.
+- Prix : barre de choix de grille (A, B et C) qui dépend du nom de fichier
+- Mise prix : Contient toutes les opérations nécessaires qui doivent être appliquées à chaque grille et chaque  article pour avoir à la fin deux onglets bien traités (Modification et Ajout).
+- Exporter : L’export des fichiers traités dans le même dossier d’import avec le même nom du fichier.
+- Supprimer : supprime tous les onglets et tout le contenu dans le fichier de programme, recommandés après chaque import.
+- 
 Chaque bouton doit avoir une gestion d’erreur qui affiche un message en cas de mauvaise sélection du bouton ou en cas de fin d’exécution.
 Les fichiers nécessaires pour exécuter ce programme :
 -	00 - Produits - Anciens prix ABC.xls

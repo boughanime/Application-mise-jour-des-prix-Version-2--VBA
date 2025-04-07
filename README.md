@@ -66,10 +66,12 @@ Le programme conserve toujours les mêmes caractéristiques et les résultats so
 Après des améliorations sur le code pour faire la mise à jour automatique de plusieurs grilles et plusieurs fonctionnalités sont ajoutées, dont le compteur de lignes et le compteur de temps qui apparaît à la fin du processus, comme indiqué sur les images :
 
 ![image](https://github.com/user-attachments/assets/b0a8352a-7aa4-4bbf-aca6-09b589848d3a)
+
 Nombre de lignes importées
 
 
 ![image](https://github.com/user-attachments/assets/e63acf4e-9ffe-44e8-b10b-404d31e26b2e)
+
 Durée de traitement
 
 **Application de mise à jour de prix version 1**

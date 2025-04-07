@@ -53,12 +53,14 @@ Nous avons dû créer un programme de traitement automatique sur plusieurs grill
 Il a fallu trouver une solution pour travailler sur un fichier contenant des milliers de lignes et trois grilles mélangées dans l'ensemble du fichier.
 
 ![image](https://github.com/user-attachments/assets/28886abc-efd4-4db0-b86f-7a54f980f648)
+
 Exemple : Nombre de lignes « 119226 »
 
 Travailler sur ce programme a été le plus difficile pendant mon année d’alternance, afin que je puisse trouver une solution à ce problème, j'ai fait une formation en ligne pour apprendre la programmation VBA avancée en anglais.
 La solution consistait à utiliser plusieurs filtres qui filtrer les articles en fonction de grilles et les ‘enregistres dans des dictionnaires.
 J’ai utilisé deux filtres le premier pour les grilles et deuxième pour les articles, chaque filtre enregistrant des informations non récursives dans un dictionnaire :
 ![image](https://github.com/user-attachments/assets/6e2e4e41-9c96-4012-b02c-fe91fec111f3)
+
 Exemple de code de filtre et dictionnaires
 
 Avec les valeurs enregistrées dans les dictionnaires, on peut travailler sur chaque article séparément et modifier les tarifs en fonction de chaque grille.
